@@ -7,6 +7,20 @@
 *.o
 *.obj
 
+# JetBrains Rider / CLion
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
 # Precompiled Headers
 *.gch
 *.pch
